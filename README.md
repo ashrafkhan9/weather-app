@@ -26,7 +26,7 @@ Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/yourusername/weather-app.git
+[git clone https://github.com/yourusername/weather-app.git](https://github.com/ashrafkhan9/weather-app)
 cd weather-app
 
 Install dependencies
